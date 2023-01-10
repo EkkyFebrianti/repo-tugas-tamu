@@ -1,0 +1,18 @@
+Nama : Ekky Febrianti Ayu. R
+NIM  : 20201306
+
+1. REST adalah gaya arsitektur perangkat lunak (atau pola desain perangkat lunak) yang dibuat untuk memandu desain dan pengembangan arsitektur World Wide Web. API, yang merupakan singkatan dari antarmuka pemrograman aplikasi, dibuat oleh pengembang untuk memungkinkan klien berbicara dengan server.
+jadi RestAPI di gunakan untuk mempermudah mengakses data dan data tersebut akan dibedakan oleh sebuah global ID atau URIs melalui pola desain.
+
+3. Apa itu headless architecture, dan apa kelebihannya dibandingkan menyajikan frontend secara langsung
+Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web. 
+Kelebihan Memakai Headless
+- Dapat Berkreasi Lebih Dengan Konten
+- Mendapat Lebih Banyak Audiens
+- Cepat Menyesuaikan dengan Inovasi Device
+- Konten Dapat Digunakan Kembali
+- Efisien Dalam Pengerjaan Konten
+- Lebih Fleksibel Untuk Developer
+- Skalabilitas
+- Lebih Aman
+-Tidak Mudah Kehilangan Konten
